@@ -1,0 +1,25 @@
+DRAGONBYTE AI — THIRD-PARTY NOTICES
+
+Version: 0.2.0
+
+DragonByte AI may include third-party software, libraries, frameworks, models, and other components.
+
+Each third-party component remains subject to its respective license and copyright terms.
+
+THIRD-PARTY COMPONENTS
+
+The following information must be completed using the actual dependencies included in the distributed application:
+
+- Component name:
+- Component version:
+- Copyright holder:
+- License:
+- Official project URL:
+
+DEPENDENCY LICENSE INFORMATION
+
+A complete list of applicable third-party dependencies and their license terms should be provided before distribution.
+
+For questions about third-party notices, contact the DragonByte project maintainers.
+
+Copyright © 2026 DragonByte. All rights reserved.

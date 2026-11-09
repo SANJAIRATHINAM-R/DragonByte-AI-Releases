@@ -1,0 +1,50 @@
+DRAGONBYTE AI — END USER LICENSE AGREEMENT
+
+Version: 0.2.0
+
+Copyright © 2026 DragonByte. All rights reserved.
+
+IMPORTANT: Please read this agreement before installing or using DragonByte AI.
+
+1. LICENSE GRANT
+
+Subject to this agreement, DragonByte grants you a limited, non-exclusive, non-transferable license to download, install, and use DragonByte AI for personal and educational purposes.
+
+2. RESTRICTIONS
+
+You may not:
+
+- Copy, modify, or redistribute the application without written permission.
+- Sell, rent, sublicense, or commercially exploit the application.
+- Repackage or distribute modified versions.
+- Claim ownership of the application or its original components.
+- Remove copyright or proprietary notices.
+- Reverse engineer or decompile the application, except where applicable law permits.
+
+3. OWNERSHIP
+
+DragonByte AI, including its original branding, interface, design, and proprietary components, remains the property of its respective owners.
+
+This agreement does not transfer ownership to the user.
+
+4. THIRD-PARTY COMPONENTS
+
+The application may include third-party libraries, services, or models. Those components remain subject to their respective licenses and terms.
+
+5. AI SERVICES
+
+AI-generated responses may contain inaccuracies. Users are responsible for reviewing and verifying AI-generated information before relying on it.
+
+6. DISCLAIMER
+
+The application is provided "AS IS", without warranties to the extent permitted by applicable law.
+
+7. TERMINATION
+
+This license may terminate if you violate its terms. Upon termination, you must stop using the application and delete your copies.
+
+8. CONTACT
+
+For licensing questions or permissions, contact the DragonByte project maintainers through the official release repository.
+
+END OF AGREEMENT
